@@ -1,0 +1,6 @@
+Client Id	Trans Type	Trans Date	Priority Flag	Trans Charge	
+AP	DEPOSIT	Thu Jul 09 00:00:00 IST 2015	Y	0.0	
+AS	SELL	Thu Jul 09 00:00:00 IST 2015	N	0.0	
+GS	BUY	Thu Jul 09 00:00:00 IST 2015	Y	0.0	
+GS	WITHDRAW	Thu Jul 09 00:00:00 IST 2015	Y	0.0	
+HJ	WITHDRAW	Thu Jul 09 00:00:00 IST 2015	N	0.0	

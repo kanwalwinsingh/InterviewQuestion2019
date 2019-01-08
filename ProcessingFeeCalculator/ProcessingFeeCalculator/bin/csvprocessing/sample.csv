@@ -1,0 +1,13 @@
+City,Country,Gender,Currency,AvgIncome
+Delhi,India,M,INR,230
+UttarPradesh,India,F,INR,210
+Gujrat,India,F,INR,320
+Moscow,Russia,M,RUB,4567
+Boston,USA,M,USD,432
+Utah,USA,M,USD,2567
+Nevada,USA,F,USD,456
+Rome,Italy,F,EUR,4789
+Arizona,USA,F,USD,7689
+Sisily,Italy,F,EUR,6789
+Delhi, ,M,Eur,1234
+Honkeng, , F,Eur,33543
